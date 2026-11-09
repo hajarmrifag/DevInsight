@@ -1,0 +1,10 @@
+[
+  {
+    "suggestion_id": "S01",
+    "theme": "replace with a proposed theme",
+    "claim": "Replace with a sample-bounded claim for human review.",
+    "source_ids": ["replace-with-source-id"],
+    "contradictory_source_ids": [],
+    "rationale": "Explain how the cited public evidence supports the suggestion."
+  }
+]
